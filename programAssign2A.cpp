@@ -1,5 +1,5 @@
 /*
-Sean Stasny
+Sean Staz
 CSC 2134
 Program 2a
 This program will solve 6 set equations with users choice of variables.
