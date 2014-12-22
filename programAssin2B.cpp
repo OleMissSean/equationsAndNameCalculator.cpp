@@ -1,5 +1,5 @@
 /*
-Sean Stasny
+Sean Staz
 CSC 2134
 Program 2b
 This program takes a full name and seperates it into a first name, middle name, and last name. It will also calculate the amount of
